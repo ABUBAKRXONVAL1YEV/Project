@@ -1,0 +1,16 @@
+h1 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.right {
+    margin-left: 700px;
+    margin-top: -140px;
+    border-left: 2px solid green;
+    padding-left: 7px;
+}
+
+.link {
+    margin-left: 800px;
+    margin-top: 50px;
+}
